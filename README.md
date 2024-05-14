@@ -24,4 +24,7 @@ To get started with this project, follow these steps:
 5. Navigate to the client directory and run the React app using `npm start`.
 6. You can now access the application in your browser at `http://localhost:3000`.
 
+## Deployed Link
+https://mern-booksearchengine-sg1a.onrender.com/
+
 Happy coding!
