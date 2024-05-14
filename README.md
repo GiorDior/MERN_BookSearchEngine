@@ -13,12 +13,6 @@ This project involves refactoring a fully functioning Google Books API search en
 - Create an Apollo Provider so that requests can communicate with an Apollo Server.
 - Deploy the application to Render.
 
-### IMPORTANT
-
-Make sure to clone the starter code repository and make your own repository with the starter code. Do not fork the starter code repository!
-
-Before you start, clone the [starter code repository](link-to-starter-code).
-
 ## Getting Started
 
 To get started with this project, follow these steps:
